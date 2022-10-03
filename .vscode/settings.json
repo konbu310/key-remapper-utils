@@ -1,6 +1,3 @@
 {
-  "deno.enable": true,
-  "deno.lint": true,
-  "deno.unstable": true,
-  "deno.path": "/usr/local/bin/deno"
+  "deno.enable": true
 }

@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "fmt-dist": "deno fmt ./dist",
+    // Karabiner: 分割USキーボード親指シフト
+    "kbn:us-oyayubi-split": "deno run  --allow-read --allow-write src/karabiner/main.ts && deno task fmt-dist"
+  }
+}
