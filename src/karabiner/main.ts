@@ -2,7 +2,7 @@ import { Tuple } from "../types.ts";
 
 const config = {
   leftShift: "spacebar",
-  rightShift: "f20",
+  rightShift: "f13",
   fileName: "us_split_oyayubi.json",
 };
 
